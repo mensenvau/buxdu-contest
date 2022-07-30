@@ -20,7 +20,7 @@ int main() {
 // OUTPUT.TXT faylida izlanayotgan elementni chiqaring.
 // Примеры (Misollar)
 // №	INPUT.TXT	OUTPUT.TXT
-// 1	3 4 2 3	5
-// 2	5 2 3 1	4
+// 1	3 4 2 3	5         ?
+// 2	5 2 3 1	4         ?
 
 //  
